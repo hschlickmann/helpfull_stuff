@@ -11,3 +11,4 @@ This script can also send image attachments, with you want to send just a single
 If you want to send multiple images, is just to add a column called "image_path" in you excel file and fill with the image path.
 
 
+In case you want to support me: www.buymeacoffee.com/hschlickmann
