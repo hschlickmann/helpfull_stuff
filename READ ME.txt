@@ -1,0 +1,13 @@
+Web Whats App Message Sender
+
+This project was designed to automate the message sending in Whatsapp.
+It uses Selenium and Pandas to consume a Excel file and send messages to a list of numbers. 
+
+
+The excel file need to be prepared with the phone numbers and messages to be send. It need to have a tab called "list",
+and at leat a column called "link_wpp" where you need to fill with this pattern:  "https://web.whatsapp.com/send?phone=FULLPHONENUMBER&text=MESSAGE"
+
+This script can also send image attachments, with you want to send just a single image, is just to insert the image path during the execution. 
+If you want to send multiple images, is just to add a column called "image_path" in you excel file and fill with the image path.
+
+
